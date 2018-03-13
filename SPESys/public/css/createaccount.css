@@ -1,0 +1,36 @@
+.container {
+    border-radius: 5px;
+    background-color: #fff;
+    padding: 30px;
+    text-align: center;
+    width: 75%;
+    font-size: 10px;
+  }
+  
+  label {
+    padding: 2px 2px 2px 0;
+  }
+ 
+  
+  
+  input[type=text], select {
+    font-size: 10px;
+    height: 20%
+  }
+  
+  .form-control{
+    font-size: 10px;
+    height: 10%
+  }
+  
+  .pageTitle
+  {
+    font-size: 15px;
+    height: 0%;
+  }
+  
+  .btn{
+    font-size: 9px;
+  }
+  
+  
